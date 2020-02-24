@@ -1,0 +1,46 @@
+
+<?php  ?>
+
+# commentaire 
+// commentaire
+
+phpinfo();
+
+echo 'ghiles';
+
+define ('le nom de constante', 'valeur de constante');      definir une constante 
+
+defined('nom de constate')      verifier si la constante est definie 
+
+$test               c'est une variable 
+
+isset($test)          tester si la variable existe 
+
+empty($test)          tester si la variable est vide 
+
+var_dump($test)           pour savoir l'etat d'une variable a l'instant t 
+
+die();                    pour arreter l'execution d'une page
+
+$array= []             declaration d'un tableau 
+$array= array();        
+
+count($array)          pour voir le nombre d'element du tableau
+
+in_array('la valeur' , $array)     voir si un element existe  dans un tableau
+
+array_search('la valeur que je cherche' , $array)     chercher une valeur dans un tableau 
+
+sort( $array)            pour trier un tableau 
+
+explode (',', 'a,b,c')               permet de convertir une chaine de caractere en tableau 
+
+implode (',', ['a','b','c'])               permet de convertir un tableau en chaine de caractere  
+
+
+
+
+
+
+
+
