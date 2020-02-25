@@ -37,6 +37,17 @@ explode (',', 'a,b,c')               permet de convertir une chaine de caractere
 
 implode (',', ['a','b','c'])               permet de convertir un tableau en chaine de caractere  
 
+min($array)  max($array)                 le minimum et le maximum d'un tableau 
+
+is_bool($test)                            pour voir si c'est un boolean 
+
+abs(-5)                              return la valeur absolut 
+
+rand(0, 9999)                       rturn un random entre zeo est 9999
+
+
+
+
 
 
 
